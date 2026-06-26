@@ -233,8 +233,6 @@ Construção de um aplicativo mobile com dados locais/mockados.
 * App de controle financeiro simples;
 * App de catálogo de produtos;
 * App de eventos;
-* App de delivery fictício;
-* App de academia;
 * App de agenda acadêmica.
 
 ## Requisitos mínimos
@@ -459,9 +457,6 @@ Desenvolver um aplicativo mobile completo utilizando Flutter, aplicando os princ
 
 ## Exemplos de temas para o projeto final
 
-* App de delivery;
-* App financeiro;
-* App de saúde e hábitos;
 * App de eventos;
 * App de controle acadêmico;
 * App de marketplace;
